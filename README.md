@@ -111,5 +111,5 @@ Este roadmap apresenta as principais fases do projeto e seus marcos importantes.
 - 📅 **03 de Abril** → Atualização do readme.md para atender as exigencias das rublicas
  
 🚀 **Status Atual:** *[Indicar o progresso atual do projeto]*  
----
+--- Coleta de dados para tratamento e analise eploratória para elaboração da proposta analitica. 
 
