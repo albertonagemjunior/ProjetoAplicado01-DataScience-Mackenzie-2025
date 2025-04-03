@@ -60,9 +60,12 @@ Etapa | Descrição
 
 ## 🚀 Como Usar
 ---
-1. Clone este repositório:  
+1. Clonar este repositório:  
    ```bash
-   #git clone ""
+   #git clone https://github.com/""
+
+2. Resolver dependências   
+   ```bash
    #pip install -r requirements.txt
 
 ## 📊 Fonte dos Dados
