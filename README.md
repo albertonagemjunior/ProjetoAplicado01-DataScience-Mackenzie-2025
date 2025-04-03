@@ -32,10 +32,10 @@ Etapa | Descrição
 
 ## 👥 Membros do Grupo
 ---
-- ALBERTO NAGEM
-- ANA JULIA DE ALMEIDA SAMPAIO
-- DIOGO LIMA PEREIRA
-- GABRIEL TORRES MENDES
+- ALBERTO NAGEM → Coleta e tratamento dos dados → Organização do projeto.
+- ANA JULIA DE ALMEIDA SAMPAIO → Documentação e apresentação dos insights
+- DIOGO LIMA PEREIRA → Definição do problema, Modelagem e visualizações dos resultados
+- GABRIEL TORRES MENDES → Análises estatísticas e exploração dos dados → Organização do projeto.
 
 ## 📂 Estrutura do Repositório
 ---
@@ -75,7 +75,7 @@ Este roadmap apresenta as principais fases do projeto e seus marcos importantes.
 
 ### 📌 Etapas do Projeto
 ---
-1️⃣ **Etapa 1: Definição e Planejamento** 📋 *(Dia 10 de Março a 03 de Abril)*
+1️⃣ **Etapa 1: Definição e Planejamento** 📋 *(Dia 04 de Março a 03 de Abril)*
    - Definição do problema e objetivos do projeto  
    - Identificação da organização e área de atuação  
    - Montagem do grupo e distribuição de responsabilidades  
@@ -104,11 +104,12 @@ Este roadmap apresenta as principais fases do projeto e seus marcos importantes.
 ---
 
 🎯 **Milestones Importantes**
-- 📅 **Semana 2** → Definição do projeto, organização do grupo e planejamento concluídos  
-- 📅 **Semana 5** → Proposta analítica definida e análise exploratória iniciada  
-- 📅 **Semana 8** → Relatório e visualizações prontos para apresentação  
-- 📅 **Semana 10** → Entrega final e apresentação do vídeo  
-
+- 📅 **04 de Março** → Definição do projeto, organização do grupo e planejamento concluídos  
+- 📅 **10 de Março** → Envio de uma primeira etapa com diverosos itens a serem observados  
+- 📅 **15 de Março** → Criado novo repositório com algumas adequações, construção do documento do projeto revisado
+- 📅 **01 de Abril** → Busca pelos datasets nas fontes indicadas sem sucesso, pensando em um plano B
+- 📅 **03 de Abril** → Atualização do readme.md para atender as exigencias das rublicas
+ 
 🚀 **Status Atual:** *[Indicar o progresso atual do projeto]*  
 ---
 
