@@ -110,5 +110,5 @@ Este roadmap apresenta as principais fases do projeto e seus marcos importantes.
 - 📅 **01 de Abril** → Busca pelos datasets nas fontes indicadas sem sucesso, pensando em um plano B
 - 📅 **03 de Abril** → Atualização do readme.md para atender as exigencias das rublicas
  
-🚀 **Status Atual:** *[Coleta de dados para tratamento e analise eploratória para elaboração da proposta analitica.]*  
+🚀 **Status Atual:** *[Coleta de dados para tratamento e análise exploratória visando a elaboração da proposta analítica.]*  
 --- 
