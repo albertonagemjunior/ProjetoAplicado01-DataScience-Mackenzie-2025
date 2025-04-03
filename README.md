@@ -6,7 +6,11 @@
 
 ## 📌 Descrição do Projeto
 ---
-Este projeto busca analisar dados de pré-natal para identificar padrões que correlacionam a falta de assistência materna com o aumento de complicações gestacionais, como doenças durante a gravidez, abortos espontâneos e mortalidade materna, através de técnicas de ciência de dados, nosso objetivo é não apenas evidenciar essas desigualdades regionais, mas também investigar os fatores subjacentes que levam à menor adesão ao pré-natal em determinadas áreas e com base nos padrões encontrados, pretendemos sugerir estratégias para melhorar o acesso e a adesão ao atendimento materno, contribuindo para a redução de riscos e desigualdades na saúde gestacional.
+Um dos assuntos mais importantes atualmente na comunidade científica e que está sendo cada vez mais destacado, é a importância do acompanhamento do Pré-natal na gestação feminina.
+
+De uma maneira introdutória, o pré-natal é um acompanhamento essencial para a saúde da gestante e do bebê, permitindo a detecção precoce de complicações por meio de exames, ultrassonografias e vacinas. No entanto, a falta de assistência adequada ou informações pode estar diretamente relacionada a um aumento nos casos de doenças gestacionais, abortos espontâneos e mortalidade materna.
+
+Este projeto universitário, irá realizar um estudo de dados governamentais para analisar as consequências da não realização do pré-natal, identificando padrões que ajudam a compreender os fatores que limitam esse acesso em determinadas regiões. A partir desses insights, buscamos propor estratégias para melhorar a adesão ao atendimento materno, contribuindo para a redução de desigualdades na saúde gestacional e gerando conhecimento que pode ser valioso para cientistas e desenvolvedores.
 
 ## **:ledger: Aplicando o Conhecimento**
 ---
