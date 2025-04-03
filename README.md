@@ -62,8 +62,8 @@ Etapa | Descrição
 ---
 1. Clone este repositório:  
    ```bash
-   git clone ""
-   pip install -r requirements.txt
+   #git clone ""
+   #pip install -r requirements.txt
 
 ## 📊 Fonte dos Dados
 ---
