@@ -62,11 +62,11 @@ Etapa | Descrição
 ---
 1. Clonar este repositório:  
    ```bash
-   #git clone https://github.com/""
+   #git clone https://github.com/"" (Ainda estamos definindo)
 
 2. Resolver dependências   
    ```bash
-   #pip install -r requirements.txt
+   #pip install -r requirements.txt (documento ainda está vazio)
 
 ## 📊 Fonte dos Dados
 ---
