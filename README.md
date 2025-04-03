@@ -62,7 +62,7 @@ Etapa | Descrição
 ---
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone ""
    pip install -r requirements.txt
 
 ## 📊 Fonte dos Dados
