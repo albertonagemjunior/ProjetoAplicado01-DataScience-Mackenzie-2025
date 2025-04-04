@@ -6,7 +6,11 @@
 
 ## 📌 Descrição do Projeto
 ---
-Este projeto busca analisar dados de pré-natal para identificar padrões que correlacionam a falta de assistência materna com o aumento de complicações gestacionais, como doenças durante a gravidez, abortos espontâneos e mortalidade materna, através de técnicas de ciência de dados, nosso objetivo é não apenas evidenciar essas desigualdades regionais, mas também investigar os fatores subjacentes que levam à menor adesão ao pré-natal em determinadas áreas e com base nos padrões encontrados, pretendemos sugerir estratégias para melhorar o acesso e a adesão ao atendimento materno, contribuindo para a redução de riscos e desigualdades na saúde gestacional.
+Um dos assuntos mais importantes atualmente na comunidade científica e que está sendo cada vez mais destacado, é a importância do acompanhamento do Pré-natal na gestação feminina.
+
+De uma maneira introdutória, o pré-natal é um acompanhamento essencial para a saúde da gestante e do bebê, permitindo a detecção precoce de complicações por meio de exames, ultrassonografias e vacinas. No entanto, a falta de assistência adequada ou informações pode estar diretamente relacionada a um aumento nos casos de doenças gestacionais, abortos espontâneos e mortalidade materna.
+
+Este projeto universitário, irá realizar um estudo de dados governamentais para analisar as consequências da não realização do pré-natal, identificando padrões que ajudam a compreender os fatores que limitam esse acesso em determinadas regiões. A partir desses insights, buscamos propor estratégias para melhorar a adesão ao atendimento materno, contribuindo para a redução de desigualdades na saúde gestacional e gerando conhecimento que pode ser valioso para cientistas e desenvolvedores.
 
 ## **:ledger: Aplicando o Conhecimento**
 ---
@@ -28,10 +32,10 @@ Etapa | Descrição
 
 ## 👥 Membros do Grupo
 ---
-- ALBERTO NAGEM
-- ANA JULIA DE ALMEIDA SAMPAIO
-- DIOGO LIMA PEREIRA
-- GABRIEL TORRES MENDES
+- ALBERTO NAGEM → Coleta e tratamento dos dados → Organização do projeto.
+- ANA JULIA DE ALMEIDA SAMPAIO → Documentação e apresentação dos insights
+- DIOGO LIMA PEREIRA → Definição do problema, Modelagem e visualizações dos resultados
+- GABRIEL TORRES MENDES → Análises estatísticas e exploração dos dados → Organização do projeto.
 
 ## 📂 Estrutura do Repositório
 ---
@@ -44,7 +48,7 @@ Etapa | Descrição
 
 ## 🔗 Link para o Documento do Projeto
 ---
-[Documento Oficial](coloque_o_link_aqui)
+[Documento Oficial](https://github.com/albertonagemjunior/ProjetoAplicado01-DataScience-Mackenzie-2025/blob/master/docs/A1_ProjetoAplicado_Prenatal_V2.pdf)
 
 ## 🛠 Tecnologias que podemos Utilizar
 ---
@@ -56,10 +60,13 @@ Etapa | Descrição
 
 ## 🚀 Como Usar
 ---
-1. Clone este repositório:  
+1. Clonar este repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   pip install -r requirements.txt
+   #git clone https://github.com/"" (Ainda estamos definindo)
+
+2. Resolver dependências   
+   ```bash
+   #pip install -r requirements.txt (documento ainda está vazio)
 
 ## 📊 Fonte dos Dados
 ---
@@ -71,7 +78,7 @@ Este roadmap apresenta as principais fases do projeto e seus marcos importantes.
 
 ### 📌 Etapas do Projeto
 ---
-1️⃣ **Etapa 1: Definição e Planejamento** 📋 *(Dia 10 de Março a 03 de Abril)*
+1️⃣ **Etapa 1: Definição e Planejamento** 📋 *(Dia 04 de Março a 03 de Abril)*
    - Definição do problema e objetivos do projeto  
    - Identificação da organização e área de atuação  
    - Montagem do grupo e distribuição de responsabilidades  
@@ -100,10 +107,11 @@ Este roadmap apresenta as principais fases do projeto e seus marcos importantes.
 ---
 
 🎯 **Milestones Importantes**
-- 📅 **Semana 2** → Definição do projeto, organização do grupo e planejamento concluídos  
-- 📅 **Semana 5** → Proposta analítica definida e análise exploratória iniciada  
-- 📅 **Semana 8** → Relatório e visualizações prontos para apresentação  
-- 📅 **Semana 10** → Entrega final e apresentação do vídeo  
-
-🚀 **Status Atual:** *[Indicar o progresso atual do projeto]*  
----
+- 📅 **04 de Março** → Definição do projeto, organização do grupo e planejamento concluídos  
+- 📅 **10 de Março** → Envio de uma primeira etapa com diverosos itens a serem observados  
+- 📅 **15 de Março** → Criado novo repositório com algumas adequações, construção do documento do projeto revisado
+- 📅 **01 de Abril** → Busca pelos datasets nas fontes indicadas sem sucesso, pensando em um plano B
+- 📅 **03 de Abril** → Atualização do readme.md para atender as exigencias das rublicas
+ 
+🚀 **Status Atual:** *[Coleta de dados para tratamento e análise exploratória visando a elaboração da proposta analítica.]*  
+--- 
